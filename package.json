@@ -1,0 +1,22 @@
+{
+  "name": "word-guessing-game",
+  "version": "1.0.0",
+  "description": "Application to play a word guessing game from the command line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharonealex/word-guessing-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharonealex/word-guessing-game/issues"
+  },
+  "homepage": "https://github.com/sharonealex/word-guessing-game#readme",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
