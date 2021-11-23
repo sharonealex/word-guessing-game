@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sharonealex/word-guessing-game#readme",
   "dependencies": {
+    "inquirer": "^8.2.0",
     "jest": "^27.3.1"
   }
 }
